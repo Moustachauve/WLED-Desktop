@@ -2,6 +2,10 @@
 
 WLED Desktop is still heavily a work in progress. Use at your own risk.
 
+You can download it for Windows at https://apps.microsoft.com/detail/9ntbcf05x6pg
+
+You can try it on the web at https://wled.cgagnier.ca/
+
 ### Features
 - Automatic device detection (mDNS)
 - All devices are accessible from one list
